@@ -1,1 +1,18 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
 
+# Next.js
+.next/
+out/
+*.log
+.env*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
